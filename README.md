@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <!-- **jelmer-agricola/jelmer-agricola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hi there, I'm [Jelmer](https://www.linkedin.com/in/jelmer-agricola-7a5910a2/) 👋
 
